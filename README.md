@@ -2,6 +2,7 @@ notes
 
 FS - BE
   - create a note
-  - list of notes
+  - get a note
+  - get a list of notes
   - update note
   - delete/complete note?
